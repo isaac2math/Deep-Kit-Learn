@@ -7,5 +7,5 @@ Ning Xu
 * This package is constructed as a university project-for-fun, only for the purpose of deep learning education, research, proof of idea/value, and other non-commerical activities.
 * This package aims to construct an easy-to-access platform for deep learning (computer vision, natural language processing, etc).
 * Roadmap
-  * Currently the package only includes YoLoV4, V5, V6X, V7, and V8.
+  * Currently the package only includes YoLoV8 and I am adding V6X, V7.
   * My next task is to add the F-CNN family and Mask R-CNN into the package
