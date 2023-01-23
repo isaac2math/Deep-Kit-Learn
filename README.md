@@ -3,7 +3,7 @@
 
 Ning Xu 
 
-* This package is directly based on and modified from several YoLo packages, including YoLoV8 by Ultralytics, YoLoV5 by Open MM lab, YoLov4 by AlexeyAB, and YoLov7 by https://github.com/WongKinYiu/yolov7.
+* This package is directly based on and modified from several YoLo packages, including YoLoV8 by Ultralytics, YoLoV5 by Open MM lab, YoLov4 by AlexeyAB, and YoLov7 by https://github.com/WongKinYiu/yolov7. All licenses of the packages above have been kept.
 * This package is constructed as a university project-for-fun, only for the purpose of deep learning education, research, proof of idea/value, and other non-commerical activities.
 * This package aims to construct an easy-to-access platform for deep learning (computer vision, natural language processing, etc).
 * Roadmap
