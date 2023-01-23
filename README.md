@@ -1,4 +1,5 @@
 # DeepLearning Tookit (based on YoLoV8, YoLoV6X, YoLoV7)
+> Scikit-Learn for deep learning
 
 Ning Xu 
 
